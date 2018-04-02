@@ -4,7 +4,7 @@ supermicro firmware tools and scripts
 
 
 
-# python .\supermicro_firmware_info.py -h
+# python supermicro_firmware_info.py -h
 usage: supermicro_firmware_info.py [-h] --cpu {INTEL,AMD} --motherboard
                                    MBDNAME
 
