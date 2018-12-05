@@ -5,6 +5,7 @@ supermicro firmware tools and scripts
 
 
 # python supermicro_firmware_info.py -h
+<pre>
 usage: supermicro_firmware_info.py [-h] --cpu {INTEL,AMD} --motherboard
                                    MBDNAME
 
@@ -13,5 +14,5 @@ usage: supermicro_firmware_info.py [-h] --cpu {INTEL,AMD} --motherboard
 optional arguments:
   -h, --help            show this help message and exit
   --cpu {INTEL,AMD}     CPU Manufracture NAME
-  --motherboard MBDNAME
-                        MotherBoard Model
+  --motherboard MBDNAME  MotherBoard Model
+ </pre>
